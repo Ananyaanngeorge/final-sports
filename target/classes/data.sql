@@ -1,8 +1,0 @@
--- =======================================================
--- Sports Equipment Management System
--- Database Initialization Script (Fresh Empty State)
--- =======================================================
--- This file starts clean with 0 records so the college
--- demonstration begins from a fresh, pristine database state.
--- Add your own equipment and students through the UI or MySQL.
--- =======================================================
